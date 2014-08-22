@@ -1,12 +1,23 @@
 ArduinoTetris
 =============
 
-Classic Tetris game running on an Arduino-compatible MicroView.
+Classic Tetris game running on an Arduino-compatible [MicroView](http://www.microview.io).
 
 MicroView Arduino-compatible C port by Richard Birkby
-Original JavaScript implementation - Jake Gordon - https://github.com/jakesgordon/javascript-tetris
 
-http://youtu.be/t3QOeQbEHVs
+Original JavaScript [implementation](https://github.com/jakesgordon/javascript-tetris) - [Jake Gordon](https://twitter.com/jakesgordon)
 
+Video
+-----
 
-MIT licenced
+Demo: http://youtu.be/t3QOeQbEHVs
+
+Requirements
+------------
+
+Uses [AdvButton](http://playground.arduino.cc/Code/AdvButton) for keypress and debounce
+
+Licence
+-------
+
+[MIT](http://en.wikipedia.org/wiki/MIT_License) licensed
