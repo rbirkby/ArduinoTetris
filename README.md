@@ -15,7 +15,8 @@ Demo: http://youtu.be/t3QOeQbEHVs
 Requirements
 ------------
 
-Uses [AdvButton](http://playground.arduino.cc/Code/AdvButton) for keypress and debounce
+* Uses [AdvButton](http://playground.arduino.cc/Code/AdvButton) for keypress and debounce
+* Uses [PlayTune](https://code.google.com/p/arduino-playtune/) for music
 
 Licence
 -------
